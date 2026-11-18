@@ -1,0 +1,6 @@
+{
+  "name": "نابغه لایتنر — آموزش هوشمند لغات",
+  "description": "وب‌اپلیکیشن PWA آفلاین و فارسی آموزش لغات با سیستم ۵ خانه لایتنر، تحلیل تلفظ، نمودار پیشرفت، ورود CSV و پشتیبان‌گیری",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
